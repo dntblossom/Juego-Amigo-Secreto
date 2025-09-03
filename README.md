@@ -17,4 +17,7 @@ Aplicación sencilla en **JavaScript** que permite:
 ## 🎮 Cómo usar  
 1. Escribe el nombre de un amigo en el campo de texto y presiona **Añadir**.  
 2. Los nombres se mostrarán en una lista.  
-3. Presiona **Sortear amigo** para obtener un nombre aleatorio de la lista.  
+3. Presiona **Sortear amigo** para obtener un nombre aleatorio de la lista.
+
+---
+✨ Para probarlo entrar al siguiente link: https://dntblossom.github.io/Juego-Amigo-Secreto/
